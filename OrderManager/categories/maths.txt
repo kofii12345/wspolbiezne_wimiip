@@ -1,0 +1,9 @@
+3 math
+3 mathematical
+3 algebra
+3 geometry
+2 calculus
+2 integral
+1 formula
+1 circle
+1 area
