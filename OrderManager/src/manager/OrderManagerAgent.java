@@ -38,7 +38,7 @@ public class OrderManagerAgent extends Agent {
 	private static final long REFRESH_TIME = 1 * 5 * 1000;
 	ArrayList<Message> unhandledOrders;
 	ArrayList<ExpertData> experts;
-	final int SYNCH_MESSAGE_NUM = 15;
+	final int SYNCH_MESSAGE_NUM = 20;
 
 	// osobna mapa bo zawartosc eksperta moze sie zmienic (np. kategoria)
 	HashMap<AID, Location> expertsLocations;
