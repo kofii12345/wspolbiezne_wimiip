@@ -28,7 +28,6 @@ import android.widget.Toast;
 import communication.ExpertMessage;
 import communication.Message;
 import communication.MessageType;
-import communication.UserListMessage;
 
 /**
  * Agent dla wersji Android
