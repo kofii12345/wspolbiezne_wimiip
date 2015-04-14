@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:androclass="http://schemas.android.com/apk/res/android" >
+    
+    <item
+        androclass:id="@+id/pop_up_order_take"
+        androclass:title="Take"/>
+    <item
+        androclass:id="@+id/pop_up_order_map"
+        androclass:title="Show in map"/>
+    <item
+        androclass:id="@+id/pop_up_order_navigate"
+        androclass:title="Navigate"/>
+    
+    
+
+</menu>

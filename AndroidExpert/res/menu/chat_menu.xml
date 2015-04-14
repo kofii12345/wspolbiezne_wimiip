@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+
+    <item
+        android:id="@+id/menu_clear"
+        android:checkable="false"
+        android:enabled="true"
+        android:menuCategory="container"
+        android:title="@string/menu_clear"
+        android:visible="true">
+    </item>
+    
+     <item
+        android:id="@+id/menu_sort_by_status"
+        android:checkable="false"
+        android:enabled="true"
+        android:menuCategory="container"
+        android:title="sort by status"
+        android:visible="true">
+    </item>
+
+</menu>
